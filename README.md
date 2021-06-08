@@ -1,4 +1,4 @@
-Description of the datasets :
+# Datasets :
 
 Symmetric DataSet : [ Train and Test]
 
@@ -10,7 +10,7 @@ Real Data Set : [Test]
 
 For testing, we have a test that can be run on a synthetic data set or a real dataset of cities. The real dataset has the following specifics: 1) 22 coordinates of Mediterranean cities 2) 52 coordinates of Berlin 3) 100 coordinates of real city(ref: http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/)
 
-Description of the specific problem:
+# Specific problem:
 
 Travelling Salesman Problem description:
 
@@ -18,7 +18,7 @@ The problem description involves solving the Travelling Salesman Problem of visi
 
 We are trying to solve the travelling salesman problem using the Deep Reinforcement learning approach that will be using the​ Q-learning algorithm​ to solve the problem. We will be using the unsupervised version of learning for this approach.
 
-Description of the specific algorithm [Q-learning with Struct2vec] :
+#  Algorithm [Q-learning with Struct2vec] :
 
 We consider that the agent that we are building will have the full information of the environment and the states corresponding to its environment. This is achieved by having a state in the graph that will hold the values of the coordinates matrix in place, the distance matrix that will be produced out of this coordinate matrix and the set of nodes that are already been visited. This makes the environment fully observable and trivial. We will be using this state representation in the build of our Q-learning network.
 
