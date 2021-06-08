@@ -1,0 +1,14 @@
+Team members:
+Akash Srikanth , asrikan2 , asrikan2@ncsu.edu
+Swathi Dinakaran , sdinaka , sdinaka@ncsu.edu
+
+Contribution:
+Akash Srikanth:
+- Q-learning algorithm : Research and implementation.
+- Synthetic dataset creation and integration.
+- Further performance enhancements
+
+Swathi Dinakaran:
+- Graph embedding Algorithm : research and Implementation.
+- Real dataset retrieval and integration.
+- Results and comparison with other algorithms.
