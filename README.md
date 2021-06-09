@@ -16,7 +16,7 @@ Travelling Salesman Problem description:
 
 The problem description involves solving the Travelling Salesman Problem of visiting every node in the graph in the shortest possible distance with a constraint of fuel. When the mileage restriction occurs there will be a search for the nearest fuel filling station which will be added to the tour to complete its path.
 
-We are trying to solve the travelling salesman problem using the Deep Reinforcement learning approach that will be using the​ Q-learning algorithm​ to solve the problem. We will be using the unsupervised version of learning for this approach.
+We tryed to solve the travelling salesman problem using the Deep Reinforcement learning approach that will be using the​ Q-learning algorithm​ to solve the problem. We will be using the unsupervised version of learning for this approach.
 
 #  Algorithm [Q-learning with Struct2vec] :
 
